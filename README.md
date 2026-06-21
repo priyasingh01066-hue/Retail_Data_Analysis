@@ -15,7 +15,8 @@ This dashboard provides a comprehensive analysis of retail sales, profit, discou
 6. Top Sub-Categories: Telephones & Communication generated the highest profit.
 7. Daily Sales Trend: Sales remained strong throughout the week, with peak sales on Monday.
 ## Files Included
-<img width="609" height="401" alt="Retail_Data_Analysis" src="https://github.com/user-attachments/assets/c6d85173-0be5-4a50-b270-d4f9bf8baa79"</img>
+<img width="609" height="401" alt="Retail_Data_Analysis" src="https://github.com/user-attachments/assets/563ca13d-1682-41cb-9b4f-4fbe5888c68b" />
+
 
 ## Business Objective
 To analyze retail sales performance, identify profitable segments and regions, monitor trends, and support data-driven business decisions.
