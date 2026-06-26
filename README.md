@@ -7,8 +7,8 @@ This dashboard provides a comprehensive analysis of retail sales, profit, discou
  * Slicers
  * Data Visualization
 ## Key Insights
-1. Total Sales: $8.95M+ generated during the analysis period.
-2. Total Profit: $692K+ profit achieved across all regions.
+1. Total Sales: 8.95M+ generated during the analysis period.
+2. Total Profit: 692K+ profit achieved across all regions.
 3. Profit Growth: Profit increased consistently from 2010 to 2013.
 4. Regional Performance: Central region generated the highest sales contribution (28%).
 5. Category Discount: Office Supplies received the highest discount share (55.58%).
@@ -16,7 +16,6 @@ This dashboard provides a comprehensive analysis of retail sales, profit, discou
 7. Daily Sales Trend: Sales remained strong throughout the week, with peak sales on Monday.
 ## Files Included
 <img width="609" height="401" alt="Retail_Data_Analysis" src="https://github.com/user-attachments/assets/563ca13d-1682-41cb-9b4f-4fbe5888c68b" />
-
 
 ## Business Objective
 To analyze retail sales performance, identify profitable segments and regions, monitor trends, and support data-driven business decisions.
